@@ -2,4 +2,6 @@ Hola, Git!
 
 Soy Bea. ¿Qué tal?
 
+¡Hablamos!
+
 Saludos.
